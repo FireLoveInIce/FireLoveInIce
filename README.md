@@ -12,6 +12,13 @@ A lazy guy didn’t even change the placeholder.
 vibecoding...
 
 
+### ☕ daily workflow
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=40&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=coffee+%E2%86%92+vibecoding+%E2%86%92+bug;vibecoding+%E2%86%92+somehow+works;don't+touch+anything"/>
+</p>
+
+
 ---
 
 ### 📊 useless github stats
@@ -21,13 +28,6 @@ vibecoding...
 </p>
 
 ---
-
-### ☕ daily workflow
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=40&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=coffee+%E2%86%92+vibecoding+%E2%86%92+bug;vibecoding+%E2%86%92+somehow+works;don't+touch+anything"/>
-</p>
-
 
 ---
 ### 👀 visitors
