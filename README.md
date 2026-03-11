@@ -1,6 +1,5 @@
 <h1 align="center"><b>Hi 👋 I'm {YOURNAME}</b></h1>
 
----
 
 
 ### 🧠 About me
