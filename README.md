@@ -3,8 +3,7 @@
 
 ### 🧠 About me
 
-A lazyguy even not change placeholder.
-
+A lazy guy didn’t even change the placeholder.
 
 ---
 
