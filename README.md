@@ -1,17 +1,14 @@
-# Hi 👋 I'm YOURNAME (too lazy to change)
+<h1 align="center"><b>Hi 👋 I'm YOURNAME</b></h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&lines=Professional+Bug+Creator;StackOverflow+Copy+Engineer;Code+Works+Don't+Touch;It+Works+On+My+Machine"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Arial&weight=700&size=40&duration=3000&color=000000&center=true&vCenter=true&width=700&lines=coffee+%E2%86%92+vibecoding+%E2%86%92+bug;vibecoding+%E2%86%92+somehow+works;don't+touch+anything"/>
 </p>
-
 ---
 
 ### 🧠 About me
 
-- writes code  
-- breaks code  
-- fixes code  
-- repeats
+vibecoding...
+
 
 ---
 
